@@ -1,2 +1,0 @@
-# Rhyolite-webpage
-Rhyolite-webpage
